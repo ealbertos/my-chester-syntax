@@ -1,0 +1,16 @@
+{
+  "name": "my-chester-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  /*"repository": "https://github.com/atom/my-chester-syntax",*/
+  "repository": "https://github.com/ealbertos/my-chester-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
